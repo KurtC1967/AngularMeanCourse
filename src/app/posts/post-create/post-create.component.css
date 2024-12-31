@@ -1,0 +1,10 @@
+button {
+  width: 30%;
+  background-color: rgb(224, 226, 236);
+  margin-bottom: 10px;
+}
+
+mat-form-field,
+textarea {
+  width: 100%;
+}

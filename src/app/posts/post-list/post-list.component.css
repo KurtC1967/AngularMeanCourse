@@ -1,8 +1,16 @@
 :host {
-    display: block;
-    margin-top: 1rem;
+  display: block;
+  margin-top: 1rem;
 }
 
 .info-text {
-    text-align: center;
+  text-align: center;
+}
+
+.edit-button {
+  color: rgb(37, 161, 202) !important;
+}
+
+.delete-button {
+  color: red !important;
 }
